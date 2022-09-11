@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GymBro</string>
+    <string name="organizador_de_rutinas">ORGANIZADOR DE RUTINAS</string>
+    <string name="Creado_por_kevin">CREADO POR KEVIN</string>
+    <string name="Imagen">Imagen</string>
+    <string name="progreso">PROGRESO</string>
+    <string name="registrar_rutina">REGISTRAR RUTINA</string>
+    <string name="ver_horario_de_rutina">VER HORARIO DE RUTINA</string>
+    <string name="acerca_de">ACERCA DE</string>
+    <string name="configuracion">CONFIGURACION</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="Musculo" translatable="false">Musculo</string>
+    <string name="REPETICIONES" translatable="false">REPETICIONES</string>
+    <string name="SERIES" translatable="false">SERIES</string>
+    <string name="RUTINA" translatable="false">RUTINA</string>
+    <string name="DIA" translatable="false">DIA</string>
+    <string name="Diadeentreno">DIA DE LA SEMANA</string>
+    <string name="Musculoaentrenar">MUSCULO QUE DESEA ENTRENAR</string>
+    <string name="Rutinaahacer">QUE RUTINA DESEA HACER</string>
+    <string name="NumRep">REPETICIONES DEL EJERCICIO</string>
+    <string name="numSeries">SERIES DESEADAS</string>
+    <string name="Proximamenre">PROXIMAMENTE CUANDO SE CREE LA BASE DE DATOS .3</string>
+    <string name="indice">INDICE DE MASA CORPORAL</string>
+    <string name="Peso">PESO ACTUAL(Kg)</string>
+    <string name="Estatura">ESTATURA ACTUAL(m)</string>
+    <string name="calorias">CALORIAS QUEMADAS</string>
+    <string name="imc">INDICE MASA CORPORAL</string>
+    <string name="pis">PESO IDEAL</string>
+    <string name="peso">peso</string>
+    <string name="Calcular">CALCULAR</string>
+    <string name="s" >Resultado</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="switchs">Ocultar imagen</string>
+    <string name="checkbox">SE ENCUENTRA SALUDABLE</string>
+    <string name="Respuesta">RESPUESTA</string>
+    <string name="IMAGEN2">imagen</string>
+</resources>

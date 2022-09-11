@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GymBro</string>
+    <string name="organizador_de_rutinas">ROUTINE ORGANIZER</string>
+    <string name="Creado_por_kevin">CREATED BY KEVIN</string>
+    <string name="progreso">PROGRESS</string>
+    <string name="registrar_rutina">RECORD ROUTINE</string>
+    <string name="ver_horario_de_rutina">SEE ROUTINE SCHEDULE</string>
+    <string name="acerca_de">ABOUT</string>
+    <string name="configuracion">CONFIGURATION</string>
+    <string name="guardar">SAVE</string>
+    <string name="Diadeentreno">DAY OF THE WEEK</string>
+    <string name="NumRep">EXERCISE REPETITIONS</string>
+    <string name="numSeries">DESIRED SERIES</string>
+    <string name="Rutinaahacer">WHAT ROUTINE YOU WANT TO DO</string>
+    <string name="Musculoaentrenar">MUSCLE YOU WANT TO TRAIN</string>
+    <string name="Proximamenre">COMING SOON WHEN THE DATABASE IS CREATED :3</string>
+    <string name="indice">BODY MASS INDEX</string>
+    <string name="Peso">CURRENT WEIGHT(Kg)</string>
+    <string name="Estatura">CURRENT STATURE(m)</string>
+    <string name="calorias">CALORIES BURNED</string>
+    <string name="imc">BODY MASS INDEX</string>
+    <string name="peso">weight</string>
+    <string name="Calcular">CALCULATE</string>
+    <string name="s">result</string>
+    <string name="pis">IDEAL WEIGHT</string>
+    <string name="switchs">Hide image</string>
+    <string name="checkbox">IS HEALTHY</string>
+    <string name="Respuesta">ANSWER</string>
+</resources>
